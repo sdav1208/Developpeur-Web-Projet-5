@@ -8,6 +8,6 @@ Vous débutez comme développeur front-end en freelance, et venez de décrocher 
 
 ## Objectif
 
- Dynamiser le site de Print It en utilisant Javascript pour créer un slidesshow pour faire défiler des slides composés d'une image et d'un texte en cliquant sur une des 2 flèches gauche et droite.
+ Dynamiser le site de Print It en utilisant Javascript pour créer un slidesshow afin de faire défiler des slides composés d'une image et d'un texte en cliquant sur une des 2 flèches gauche et droite.
 
 ![screenshot du site](./images/PrintIt.png)
